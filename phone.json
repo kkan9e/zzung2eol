@@ -1,0 +1,775 @@
+{
+  "version": 1,
+  "id": "6c6352d8-c152-47f9-b443-60a25dff8dfc",
+  "title": "강호열",
+  "owner": "고 강",
+  "ownerAvatar": null,
+  "ownerInfo": {
+    "phone": "010-호여리형-보고싶다",
+    "birthday": "07-31"
+  },
+  "theme": "light",
+  "wallpaper": null,
+  "wallpaperStyle": "aurora",
+  "clock": "12:25",
+  "date": "2026-10-31",
+  "clockMode": "current",
+  "lockTextTone": "light",
+  "lockClockOpacity": 1,
+  "lockWallpaperTransform": {
+    "x": 0,
+    "y": 7.222825632885005,
+    "scale": 1.05
+  },
+  "homeWallpaperTransform": {
+    "x": 0,
+    "y": 0,
+    "scale": 1.05
+  },
+  "lockWallpaperEffects": {
+    "blur": 0,
+    "opacity": 0.97
+  },
+  "homeWallpaperEffects": {
+    "blur": 11,
+    "opacity": 1
+  },
+  "lockCode": "",
+  "lockWallpaper": "assets/1.jpg",
+  "homeWallpaper": "assets/2.jpg",
+  "lockWallpaperStyle": "aurora",
+  "homeWallpaperStyle": "aurora",
+  "showApps": {
+    "messages": true,
+    "contacts": true,
+    "photos": false,
+    "notes": true,
+    "music": true,
+    "calendar": true,
+    "diary": false,
+    "scrapbook": true,
+    "sns": false,
+    "calls": true
+  },
+  "appLayout": {
+    "home": [
+      "scrapbook",
+      "messages",
+      "notes",
+      "music",
+      "photos",
+      "diary",
+      "sns"
+    ],
+    "dock": [
+      "calls",
+      "calendar",
+      "contacts"
+    ]
+  },
+  "homeSlots": {
+    "messages": 5,
+    "photos": 15,
+    "notes": 8,
+    "music": 9,
+    "diary": 16,
+    "scrapbook": 4,
+    "sns": 17
+  },
+  "widgets": [
+    {
+      "id": "d179ddb9-fe99-4358-b862-10d312d9c40e",
+      "type": "text",
+      "size": "4x1",
+      "slot": 0,
+      "text": "차례대로 click!",
+      "style": "search",
+      "align": "center",
+      "font": "sans",
+      "tone": "auto"
+    },
+    {
+      "id": "7e5132bd-0687-4038-9819-00e07a01b488",
+      "type": "clock",
+      "size": "2x2",
+      "slot": 6,
+      "style": "stack",
+      "showDate": true,
+      "tone": "dark"
+    }
+  ],
+  "contacts": [
+    {
+      "id": "04208ce4-2308-41de-9da7-5c660a21780c",
+      "name": "경기인력",
+      "subtitle": "",
+      "phone": "",
+      "favorite": false,
+      "avatar": null
+    },
+    {
+      "id": "0110055c-c85e-46fd-bdbd-81f2634e248d",
+      "name": "아빠",
+      "subtitle": "",
+      "phone": "",
+      "favorite": false,
+      "avatar": null
+    },
+    {
+      "id": "e583d003-bbf2-4476-921d-35e3ffcf082e",
+      "name": "엄마",
+      "subtitle": "",
+      "phone": "",
+      "favorite": false,
+      "avatar": null
+    },
+    {
+      "id": "97ee0517-0fee-4d0b-95e2-0640860750ce",
+      "name": "호여리 형",
+      "subtitle": "",
+      "phone": "",
+      "favorite": false,
+      "avatar": null,
+      "organization": "제103보병사단 헌병대 DP"
+    }
+  ],
+  "threads": [
+    {
+      "id": "6143ac7f-266d-40a2-9e15-be46a10b9941",
+      "contactId": "97ee0517-0fee-4d0b-95e2-0640860750ce",
+      "messages": [
+        {
+          "id": "a31affcb-45c6-4dba-87ff-e63ff7592f95",
+          "kind": "date",
+          "text": "4월 13일 화요일",
+          "dateParts": {
+            "mode": "calendar",
+            "month": 4,
+            "day": 13,
+            "weekday": 2
+          }
+        },
+        {
+          "id": "48827866-e0d6-45eb-a78f-646927ed6d65",
+          "from": "them",
+          "text": "똑똑~",
+          "time": "20:28"
+        },
+        {
+          "id": "ce715ee5-e3d0-4d9f-9188-0cc6cda436eb",
+          "from": "them",
+          "text": "계세여?",
+          "time": "20:30"
+        },
+        {
+          "id": "6a9c2f8d-88ef-4183-93a5-761195331d01",
+          "from": "me",
+          "text": "누구십니까?",
+          "time": "20:29"
+        },
+        {
+          "id": "151905f3-f20c-4fd1-bd70-98692c399cba",
+          "from": "them",
+          "text": "누구 아닌뎅. 그대가 전번을 뜯어다 나에게 아주아주 수줍게 쥐여 주지 않았나.",
+          "time": "20:37"
+        },
+        {
+          "id": "770f56cb-a777-4592-962d-420949e78574",
+          "from": "me",
+          "text": "설마 그때 철거? 호열이 형?",
+          "time": "20:38"
+        },
+        {
+          "id": "d72161c0-265c-4855-8ca7-c7819cd05313",
+          "from": "me",
+          "text": "맞아요?",
+          "time": "20:38"
+        },
+        {
+          "id": "0a75f46b-1f52-4e52-bcee-d83b7c98532a",
+          "from": "them",
+          "text": "웅. 한 달밖에 안 지났는데 기억력이 영 별로다잉.",
+          "time": "20:41"
+        },
+        {
+          "id": "82b50dd6-9525-4f2a-b84d-ec9ded0d699c",
+          "from": "me",
+          "text": "연락 없어서 존나 뻥 차인 줄 알았는데요...............",
+          "time": "20:43"
+        },
+        {
+          "id": "31531b19-6faa-4534-8009-37309aace99b",
+          "from": "them",
+          "text": "뻥은 쩌기 조기축구 아저씨들이 공 찰 때나 나는 소리고. 요기 나는 드디어 휴가를 나왔다, 이 말이에용.",
+          "time": "20:48"
+        },
+        {
+          "id": "9aa27ccb-7660-4812-bf07-6af7cd3ba4a6",
+          "from": "them",
+          "text": "무려 포상휴가. 어때, 막. 안 기쁜가? 엉?",
+          "time": "20:49"
+        },
+        {
+          "id": "12f0e889-4fdb-4603-b153-d889fa8d7222",
+          "from": "me",
+          "text": "지금그말은절만나주겠단뜻?",
+          "time": "20:50"
+        },
+        {
+          "id": "38188ea1-8374-408f-b2d4-916f43fd5891",
+          "from": "them",
+          "text": "빙고. 말년 군인 좀 놀아줭.",
+          "time": "20:52"
+        },
+        {
+          "id": "4faec97b-fb92-45c4-8d26-0ecbdfe3ebe1",
+          "from": "me",
+          "text": "당장 전화 걸게여.",
+          "time": "20:58"
+        },
+        {
+          "id": "dc3d0634-387f-48ed-b1ae-7b76995eb2a6",
+          "kind": "date",
+          "text": "4월 27일 화요일",
+          "dateParts": {
+            "mode": "calendar",
+            "month": 4,
+            "day": 27,
+            "weekday": 2
+          }
+        },
+        {
+          "id": "eb165a95-60e6-4360-a607-d1b3a1a3d516",
+          "from": "me",
+          "text": "형. 담 휴가 언제예요?",
+          "time": "21:01"
+        },
+        {
+          "id": "aebaa699-7a89-406d-817c-ca94ecfd65cf",
+          "from": "me",
+          "text": "담휴가언제담휴가언제",
+          "time": "21:01"
+        },
+        {
+          "id": "6de3a904-df0c-4537-bcb0-da40e3b3c0fe",
+          "kind": "date",
+          "text": "4월 27일 수요일",
+          "dateParts": {
+            "mode": "calendar",
+            "month": 4,
+            "day": 27,
+            "weekday": 3
+          }
+        },
+        {
+          "id": "04dc7818-8d6e-4e79-8e3f-db5033d9a4df",
+          "from": "them",
+          "text": "형이 지금 라면 먹느라 바뿌다앙.",
+          "time": "21:02"
+        },
+        {
+          "id": "c98263e0-a604-4535-8479-d83604fcfcc9",
+          "from": "me",
+          "text": "휴가 나오면 라멘 사줌.",
+          "time": "21:05"
+        },
+        {
+          "id": "ce5954b3-d491-4312-995f-d5fa637c5f2e",
+          "from": "them",
+          "text": "세상에서 가장 자비로우신 고강님. 충성.",
+          "time": "21:06"
+        },
+        {
+          "id": "e9d11948-248b-4da1-a85c-94690a1fba0d",
+          "from": "them",
+          "text": "6월에 발걸음 사뿐히 해보겠습니당.",
+          "time": "21:06"
+        },
+        {
+          "id": "210986a3-6014-4e96-84fd-8007cfd7867f",
+          "from": "me",
+          "text": "오케이. 열쩡!",
+          "time": "21:09"
+        }
+      ],
+      "draft": "",
+      "timelineVersion": 1
+    },
+    {
+      "id": "f2cdd02a-647e-406b-a433-35e7c795d08c",
+      "contactId": "04208ce4-2308-41de-9da7-5c660a21780c",
+      "messages": [
+        {
+          "id": "0f1d67e4-cf17-46e6-b815-dfdf4d01ce58",
+          "kind": "date",
+          "text": "2월 7일 월요일",
+          "dateParts": {
+            "mode": "calendar",
+            "month": 2,
+            "day": 7,
+            "weekday": 1
+          }
+        },
+        {
+          "id": "0d279d24-a175-449d-8976-4ed49b942a80",
+          "from": "me",
+          "text": "안녕하세요. 전화 드렸는데 부재중이셔서 메세지로 연락드립니다. \n\n[고강/21세/남]\n\n군필자(육군 11군번)이고 건설업 기초안전보건교육 이수증 보유하고 있습니다. 시켜만 주신다면 당장 내일부터 출근 가능하고, 현장 일 있으면 연락 부탁드립니다.",
+          "time": "20:08"
+        },
+        {
+          "id": "97a03b1f-6fbc-4564-a7d1-1328da0dfeac",
+          "from": "them",
+          "text": "이따가 전화 줄게요",
+          "time": "20:12"
+        },
+        {
+          "id": "267e52e3-6114-423e-acc9-900cb70b0af4",
+          "from": "me",
+          "text": "넵 알겠습니다.",
+          "time": "20:12"
+        },
+        {
+          "id": "a96ef232-e163-469c-9a9b-c32f801bb8bc",
+          "kind": "date",
+          "text": "2월 8일 화요일",
+          "dateParts": {
+            "mode": "calendar",
+            "month": 2,
+            "day": 8,
+            "weekday": 2
+          }
+        },
+        {
+          "id": "d9d43ccb-b5bf-4e10-a21a-90c52039075c",
+          "from": "them",
+          "text": "내일 08시까지 알려 준 장소로 출근하세요.",
+          "time": "20:14"
+        },
+        {
+          "id": "343cbae4-b6ec-4f66-b6ae-26f86a56c127",
+          "from": "me",
+          "text": "내일 뵙겠습니다. 감사합니다!!",
+          "time": "20:14"
+        },
+        {
+          "id": "b81ce49e-b684-4d86-a637-3388649766f4",
+          "kind": "date",
+          "text": "2월 9일 수요일",
+          "dateParts": {
+            "mode": "calendar",
+            "month": 2,
+            "day": 9,
+            "weekday": 3
+          }
+        },
+        {
+          "id": "9971844b-a15f-4d91-b57f-1014de40768a",
+          "from": "them",
+          "text": "입금내역 확인하세요.",
+          "time": "20:15"
+        },
+        {
+          "id": "5a86c726-2b41-4fd8-ae33-564436841bc2",
+          "from": "me",
+          "text": "확인했습니다.",
+          "time": "20:15"
+        },
+        {
+          "id": "2db3892c-1c53-43a2-901f-e3295519086b",
+          "kind": "date",
+          "text": "3월 26일 토요일",
+          "dateParts": {
+            "mode": "calendar",
+            "month": 3,
+            "day": 26,
+            "weekday": 6
+          }
+        },
+        {
+          "id": "16bbae6b-713a-4258-b656-5f3b11e488c5",
+          "from": "them",
+          "text": "미안한데 오늘 시간 있나?",
+          "time": "20:19"
+        },
+        {
+          "id": "9e581fcf-db67-47e8-847a-4b467b232496",
+          "from": "them",
+          "text": "누구 하나 빵꾸내고 튀어서 자리 비는데 하고싶음 꽂아줄라니까 생각 있으면 전화해라",
+          "time": "20:20"
+        },
+        {
+          "id": "7ddf2d30-781b-4bf3-92c8-11c6ef59b984",
+          "from": "me",
+          "text": "오늘 시간 됩니다 팀장님 전화 드리겠슴다",
+          "time": "20:20"
+        },
+        {
+          "id": "370a2250-3cca-42a4-973c-6e278b77f74a",
+          "kind": "date",
+          "text": "4월 15일 일요일",
+          "dateParts": {
+            "mode": "calendar",
+            "month": 4,
+            "day": 15,
+            "weekday": 0
+          }
+        },
+        {
+          "id": "fb549e2c-5c12-478d-b2ca-50559e06131d",
+          "from": "them",
+          "text": "어야 몸은 괜찮냐? 회복하고 와라",
+          "time": "20:22"
+        },
+        {
+          "id": "f4a3e2c6-c1ad-47f0-ac0d-5d6285ef1c37",
+          "from": "me",
+          "text": "네 죄송합니다 ㅠㅠ 담에 배로 뛰겠습니다",
+          "time": "20:23"
+        },
+        {
+          "id": "0bd20f3f-ef7f-4cd0-ba5d-b18c27661905",
+          "kind": "date",
+          "text": "4월 18일 수요일",
+          "dateParts": {
+            "mode": "calendar",
+            "month": 4,
+            "day": 18,
+            "weekday": 3
+          }
+        },
+        {
+          "id": "4828957e-6ee7-4f66-9f9e-a40f32bbaeeb",
+          "from": "me",
+          "text": "내일부터 정상출근 가능합니다.",
+          "time": "20:25"
+        },
+        {
+          "id": "de4192d6-0df0-4355-839e-1d77e872f2a4",
+          "from": "them",
+          "text": "저녁에 전화 줄게~",
+          "time": "20:26"
+        },
+        {
+          "id": "1321eb03-fc0d-4872-a79e-95cf0bcdf204",
+          "from": "me",
+          "text": "넵!",
+          "time": "20:26"
+        }
+      ],
+      "draft": "",
+      "timelineVersion": 1
+    }
+  ],
+  "photos": [],
+  "notes": [
+    {
+      "id": "f055b2c9-ec7b-4a05-9f5b-fdd802ae2830",
+      "title": "호여리 형에게",
+      "body": "🐯 호랑이 열쩡 충성!\n상호 성인 여성. 아침부터 새벽까지 랜덤하게 활동하나 보통은 빠르게 답하는 편입니다. 가볍게 티키타카가 이루어질 정도의 간격이라면 상관하지 않으니 자유롭게 보길 희망합니다.\n\n👣 무겁지 않은 분위기, 연인 발전 관계성이므로 고백은 호열이가 2주 이내로 먼저 해 주길 바라요. 첫 만남 장소는 DP 시즌 1 허치도 탈영병 에피소드에서 등장한 철거 현장이며, 현 시점은 전역 이후입니다. 비속어 워딩 사용 신경쓰지 않으므로 상황에 맞게 써주세요.\n\n💭 서사 상에서의 만남 이후 호열이가 심심할 때마다 강이를 찾게 됩니다. 표현에 관해서는 서로 가리지 않고 쌍방 관계로 가까워지면 되겠습니다.\n\n@ twt + band or between 만남 원합니다. 트위터는 보조 수단으로 퍼블트 및 기능 사용, 멘션 대화 용도이며 상기 기재해 둔 두 어플 중 한 군데에서 집중적으로 소통하고자 해요. 마음이 동하신 경우 모심표 작성 후 오너입으로 조율방 입장 부탁드리며 기타 문의는 익명함에 편하게 작성해주세요. 해삐한 하루 되세용. ☀️",
+      "pinned": false,
+      "updated": "2026-10-31"
+    }
+  ],
+  "music": {
+    "tracks": [
+      {
+        "id": "308af25c-d666-4606-9b9e-e72d1846da6a",
+        "title": "Meet Me at the Bay",
+        "artist": "JKC",
+        "cover": "assets/3.jpg",
+        "audio": null,
+        "youtubeUrl": "https://www.youtube.com/watch?v=KH26G5HJUr0"
+      },
+      {
+        "id": "09560d9d-acd2-469a-89f3-95b6008ed3cc",
+        "title": "heaven and hell",
+        "artist": "wave to earth",
+        "cover": "assets/4.jpg",
+        "audio": null,
+        "youtubeUrl": "https://www.youtube.com/watch?v=TsVJscghcuo"
+      },
+      {
+        "id": "7ba56704-9ac9-450f-863d-d5fe44a7bffb",
+        "title": "I Color You",
+        "artist": "Colde",
+        "cover": "assets/5.jpg",
+        "audio": null,
+        "youtubeUrl": "https://www.youtube.com/watch?v=HvVEzD2eH4U"
+      },
+      {
+        "id": "39331b04-eeea-4918-83c1-64d19223652d",
+        "title": "Nostalgia",
+        "artist": "BIG Naughty",
+        "cover": "assets/6.jpg",
+        "audio": null,
+        "youtubeUrl": "https://www.youtube.com/watch?v=EIc13cn7tWo"
+      },
+      {
+        "id": "f3b2d668-d35d-4b3b-a987-c9695905fc97",
+        "title": "Last Scene",
+        "artist": "g0nny",
+        "cover": "assets/7.jpg",
+        "audio": null,
+        "youtubeUrl": "https://www.youtube.com/watch?v=SdmOHcpH_AQ"
+      },
+      {
+        "id": "c95eadb9-aac5-41bc-9502-42fd15b9f384",
+        "title": "Say",
+        "artist": "keshi",
+        "cover": "assets/8.jpg",
+        "audio": null,
+        "youtubeUrl": "https://www.youtube.com/watch?v=p4whhL8NtyI"
+      }
+    ],
+    "playlists": []
+  },
+  "calendar": {
+    "events": [
+      {
+        "id": "b258a1f2-a3b0-4a79-a812-b0b8d03b8cc9",
+        "title": "영화",
+        "date": "2026-10-09",
+        "time": "",
+        "endDate": "",
+        "kind": "event",
+        "repeatYearly": false,
+        "inclusive": false,
+        "description": "",
+        "color": "#f69f3c"
+      },
+      {
+        "id": "2a813d6d-13f1-4325-b184-949e8ddfef16",
+        "title": "여리형 저녁",
+        "date": "2026-10-10",
+        "time": "",
+        "endDate": "",
+        "kind": "event",
+        "repeatYearly": false,
+        "inclusive": false,
+        "description": "",
+        "color": "#f6963c"
+      },
+      {
+        "id": "246a5f7c-9b26-41d2-906f-27694dc6a33a",
+        "title": "여리형",
+        "date": "2026-10-12",
+        "time": "",
+        "endDate": "",
+        "kind": "event",
+        "repeatYearly": false,
+        "inclusive": false,
+        "description": "",
+        "color": "#f69f3c"
+      },
+      {
+        "id": "2a5ac995-1a99-4070-b12b-0bf43b5aec98",
+        "title": "여리형 점심",
+        "date": "2026-10-20",
+        "time": "",
+        "endDate": "",
+        "kind": "event",
+        "repeatYearly": false,
+        "inclusive": false,
+        "description": "",
+        "color": "#f69f3c"
+      },
+      {
+        "id": "be9be391-fab4-47a1-8edf-06a06d891cc9",
+        "title": "3시 당근",
+        "date": "2026-10-24",
+        "time": "",
+        "endDate": "",
+        "kind": "event",
+        "repeatYearly": false,
+        "inclusive": false,
+        "description": "",
+        "color": "#3B82F6"
+      },
+      {
+        "id": "a35941bd-b03e-46f9-b95f-31ef58384179",
+        "title": "여리형",
+        "date": "2026-10-29",
+        "time": "",
+        "endDate": "",
+        "kind": "event",
+        "repeatYearly": false,
+        "inclusive": false,
+        "description": "",
+        "color": "#f69f3c"
+      },
+      {
+        "id": "f8d2bb24-d56d-43d0-8aea-52ecafb2e4a6",
+        "title": "호열형 라멘",
+        "date": "2026-06-23",
+        "time": "",
+        "endDate": "",
+        "kind": "event",
+        "repeatYearly": false,
+        "inclusive": false,
+        "description": "",
+        "color": "#3B82F6"
+      },
+      {
+        "id": "13f36f4c-74ab-4431-ab01-330c461a147a",
+        "title": "호열형",
+        "date": "2026-04-13",
+        "time": "",
+        "endDate": "",
+        "kind": "event",
+        "repeatYearly": false,
+        "inclusive": false,
+        "description": "",
+        "color": "#3B82F6"
+      }
+    ]
+  },
+  "scrapbook": {
+    "boards": [
+      {
+        "id": "351d0a6d-37ab-40bf-8699-aa51ca853fc8",
+        "title": "0",
+        "background": "#FFFFFF",
+        "backgroundImage": null,
+        "backgroundPattern": "grid",
+        "items": [
+          {
+            "id": "6b9d88a5-b665-4880-97c5-4940319305df",
+            "kind": "image",
+            "text": "",
+            "src": "assets/9.png",
+            "x": 13,
+            "y": 11,
+            "width": 71.63,
+            "height": 76,
+            "rotation": 6,
+            "color": "#1D1D1F",
+            "background": "transparent",
+            "fontSize": 18,
+            "frame": "none",
+            "photoBorder": "tape",
+            "photoBorderStyle": {
+              "color": "#cbcbd8",
+              "width": 22,
+              "length": 34,
+              "opacity": 0.65
+            }
+          }
+        ]
+      },
+      {
+        "id": "c604ae96-dc54-48f3-95c0-436d470945eb",
+        "title": "표",
+        "background": "#E4ECF4",
+        "backgroundImage": null,
+        "items": [
+          {
+            "id": "4d784db5-62f7-4120-99ad-de267dd5d0a6",
+            "kind": "image",
+            "text": "",
+            "src": "assets/10.webp",
+            "x": 15,
+            "y": 8,
+            "width": 79.59187138055506,
+            "height": 39.09950681569767,
+            "rotation": 4,
+            "color": "#1D1D1F",
+            "background": "transparent",
+            "fontSize": 18,
+            "photoBorder": "dashed",
+            "photoBorderStyle": {
+              "color": "#d1d1d1"
+            },
+            "flipX": false
+          },
+          {
+            "id": "fce8b896-2749-4fe4-86ba-5e91bae0fad9",
+            "kind": "image",
+            "text": "",
+            "src": "assets/11.webp",
+            "x": 6,
+            "y": 53,
+            "width": 81.76704433433682,
+            "height": 40.168060529242965,
+            "rotation": -3,
+            "color": "#1D1D1F",
+            "background": "transparent",
+            "fontSize": 18,
+            "photoBorder": "dashed",
+            "photoBorderStyle": {
+              "color": "#d1d1d1"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "calls": [
+    {
+      "id": "e2407d25-72c1-4a0a-a9dd-825d789423de",
+      "type": "outgoing",
+      "name": "호여리 형",
+      "time": "17:15"
+    },
+    {
+      "id": "5611ba44-a7a8-44c3-87dc-47034ea9f5d2",
+      "type": "incoming",
+      "name": "경기인력",
+      "date": "2026-10-30",
+      "time": "04:45"
+    },
+    {
+      "id": "ef89a0ab-1929-417f-8419-575ae812fd30",
+      "type": "incoming",
+      "name": "경기인력",
+      "date": "2026-10-29",
+      "time": "07:21"
+    },
+    {
+      "id": "1ce71759-413c-4a66-b7be-99b7ffcfed30",
+      "type": "outgoing",
+      "name": "호여리 형",
+      "date": "2026-10-26",
+      "time": "23:53"
+    },
+    {
+      "id": "02ef1b86-2b26-4814-a2b0-7892e3254335",
+      "type": "missed",
+      "name": "호여리 형",
+      "date": "2026-10-26",
+      "time": "23:23"
+    },
+    {
+      "id": "daf7b062-f13e-4ec3-9e4b-90a5c887eeb2",
+      "type": "incoming",
+      "name": "경기인력",
+      "date": "2026-10-26",
+      "time": "19:11"
+    },
+    {
+      "id": "5e5c9132-bdba-46d6-afd7-c66e7a184fb1",
+      "type": "incoming",
+      "name": "호여리 형",
+      "date": "2026-10-24",
+      "time": "13:33"
+    },
+    {
+      "id": "87eea5f8-1bfb-4d96-9965-cb176625e0cd",
+      "type": "incoming",
+      "contactId": "97ee0517-0fee-4d0b-95e2-0640860750ce",
+      "date": "2026-06-23"
+    },
+    {
+      "id": "df8e0d40-1ef4-415c-92d9-a05752b012f8",
+      "type": "outgoing",
+      "contactId": "97ee0517-0fee-4d0b-95e2-0640860750ce",
+      "date": "2026-04-13"
+    },
+    {
+      "id": "ac5375e0-5776-4ec2-a2ea-7e7fb456917f",
+      "type": "incoming",
+      "contactId": "04208ce4-2308-41de-9da7-5c660a21780c",
+      "date": "2026-02-07"
+    }
+  ],
+  "updatedAt": "2026-10-31T12:42:16.218Z"
+}
